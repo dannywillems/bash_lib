@@ -1,2 +1,3 @@
-# bash_lib
-Library written in bash
+# A Bash library
+
+A library written in bash.
